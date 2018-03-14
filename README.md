@@ -19,12 +19,21 @@ Nomes das pastas
 - Contrato de Convivência
 - Trabalhos e Notas
 - Apresentando o trabalho do Playfair
+- TODO
+    - Fazer o trabalho de playfair
 
 ## S02E02
 - Slide sobre segurança
 
 ## S03E01
 - Slide sobre cifras e tipos de cifras
+- TODO
+    - Fazer o trabalho de decriptografar o texto cifrado com vigenere.
+    - A senha é formada por 8 caracteres entre 'a' e 'z'
+    - No texto claro há a palavra "amor"
 
 ## S03E02
 - Estudo em grupo sobre cifras simétricas e assimétricas
+- TODO
+    - Postar o trabalho com as respostas das perguntas da aula.
+    - Ler a apostila sobre segurança apostila.doc, aqui do git
